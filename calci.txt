@@ -1,3 +1,4 @@
 calci
 addition
 subtraction
+multiplication
